@@ -1,1 +1,1 @@
-export const RPC_ENDPOINT = ""
+export const RPC_ENDPOINT = "https://tame-alpha-putty.solana-devnet.discover.quiknode.pro/86b739a9a31cc6ad27aecd3056d8395ad227d2e0/"
